@@ -14,6 +14,12 @@ def palindromo(sentence: str) -> bool:
 
     >>> palindromo('Anita lava la tina')
     True
+
+    >>> palindromo('CodigoFacilito')
+    False
+
+    >>> palindromo('Oso')
+    True
     """
     sentence = sentence.lower().replace(' ', '')
     return sentence == sentence[::-1]
