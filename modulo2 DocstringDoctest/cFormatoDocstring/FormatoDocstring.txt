@@ -1,0 +1,23 @@
+El  Docstring es un comentario, siempre se podrá
+quitar o agregar información
+
+Para Python no hay Docstring correcto o incorrecto, son los desarrolladores
+quienes establezcan las pautas 
+
+La comunidad ha propuesto diferentes estilos para los Docstring, uno de los 
+recomendados es el estilo de Google
+
+Podemos llamar automáticamente un ejemplo de Docstring descargar la extensión
+autoDocstring, usando """ y seleccionar Generate Docstring
+
+Con esto se llama automáticamente un Docstring que traerá resumen, args y returns
+
+
+
+
+
+
+
+
+
+

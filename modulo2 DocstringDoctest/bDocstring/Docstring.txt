@@ -1,0 +1,19 @@
+Docstring
+
+Es a través del Docstring que se puede documentar funciones, clases, métodos, etc
+
+En la primera línea del cuerpo de la  función (def) colocamos """ """, normalmente 
+se trabaja más con triple comillas dobles, este comentario es el Docstring
+
+1-Breve descripción de la función o el código
+2-Colocar Args -> Argumentos: entradas con su tipo de dato
+3-Colocar Returns -> Retornar: valores a retornar
+
+Estos comentarios Docstring se guardan en el atributo __doc__
+
+para llamar el Docstring usamos:
+
+1- nombre.__doc__ -> llama el Docstring, si no se llama desde un print queda ligeramente desordenado
+2- help(nombre) -> muestra el Docstring más organizado
+
+

@@ -1,0 +1,5 @@
+Existen 3 formas de comentar en código
+
+1- utilizando el caracter #
+2- utilizando triple comillas dobles """ """, comentarios pueden tener saltos de linea, puede usar comillas simples dentro
+3- utilizando triple comillas simples ''' ''', comentarios pueden tener saltos de linea, puede usar comillas dobles dentro

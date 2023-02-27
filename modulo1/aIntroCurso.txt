@@ -1,0 +1,8 @@
+-Assert
+-Doctest
+-Docstring
+-Casos de pruebas
+-logs
+
+Uso de librerias Unittest y Pytest
+
