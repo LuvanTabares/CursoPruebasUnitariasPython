@@ -1,0 +1,16 @@
+Con el Docstring podemos probar el código usando el Doctest
+
+Para ello debemos usar >>>, simulando el shell
+
+Se puede crear una nueva sección en el Docstring como Examples
+
+>>> nombrefunc(argumentos)
+Respuestaesperada
+
+Para ejecutar el Docstring en terminal ejecutar: python -m doctest nombrearchivo.py -v
+
+--> -m ejecuta un módulo de python
+--> -v muestra más información del Doctest
+
+No se recomienda poner las pruebas del código en el Docstring, colocar la menor cantidad posible
+
